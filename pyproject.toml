@@ -1,0 +1,16 @@
+[project]
+name = "SpecialBonuses"
+version = "1.0.0"
+
+description = "This package gives stat buffs to collectibles with  a special! Like more to shiny balls and whatnot"
+
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+
+authors = [
+    { name = "cewlgruyere", email = "gruyere@remicrodex.com" },
+]
+readme = "README.md"
+
+dependencies = []
+
